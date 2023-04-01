@@ -3,7 +3,7 @@
 {
   "name": "Container",
   // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-  "image": "ghcr.io/bpurinton/appdev-1-codespace",
+  "image": "bpurinton/photogram-signin-codespace-march2023",
 
   // Features to add to the dev container. More info: https://containers.dev/features.
   // "features": {},
